@@ -1,0 +1,7 @@
+pytorch >= 1.13.0
+torchvision >= 0.14.0
+torchgeo >= 0.2.1
+matplotlib
+scikit-learn
+pandas
+rasterio
